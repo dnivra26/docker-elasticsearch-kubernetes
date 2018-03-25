@@ -1,4 +1,4 @@
-FROM quay.io/pires/docker-elasticsearch:6.2.3
+FROM dnivra26/docker-elasticsearch:6.2.3
 
 MAINTAINER pjpires@gmail.com
 
